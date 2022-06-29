@@ -6,7 +6,7 @@
 body{
     font-size: 1 em;
     font-family: Garamond;
-     background-image: linear-gradient(to bottom , black, gray);
+    background-color: black;
 }
 
 /*
@@ -35,6 +35,10 @@ body{
 #area_lateral{
     width: 240px;
     float: right;
+}
+
+#infcontato{
+    color: white;
 }
 
 .postagem{
